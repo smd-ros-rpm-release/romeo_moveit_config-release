@@ -18,7 +18,7 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: null
+    vcs_uri: https://github.com/ros-aldebaran/romeo_moveit_config.git
     version: :{auto}
   indigo:
     actions:
